@@ -1,0 +1,37 @@
+<!-- <label>Filter by Description</label>
+<input type = "text" [(ngModel)]='description'/> -->
+
+<!-- <button type="button" (click)="onDescriptionFilter()">Search</button>
+<button type="button" (click)="onDescriptionFilterClear()">Clear</button> -->
+
+<form class="d-flex">
+  <input class="form-control me-2" type="search" placeholder="Filter by Description" aria-label="Search" [(ngModel)]='description' [ngModelOptions]="{standalone: true}">
+  <button class="btn btn-outline-success" type="submit" (click)="onDescriptionFilter()">Search</button>
+  <button class="btn btn-outline-warning" type="submit" (click)="onDescriptionFilterClear()" style="margin-right: 20px">Clear</button>
+
+  <select [(ngModel)] = 'sortByParam' [ngModelOptions]="{standalone: true}" class="form-select form-select-sm" aria-label=".form-select-sm example" >
+    <option value = "value" selected>Select</option>
+    <option value="price">Price</option>
+    <option value="description">Description</option>
+  </select>
+
+  <button class="btn btn-info btn-xs" type="submit" (click)="onSortDirection()" style="margin-left: 10px">Sort</button>
+</form>
+<br>
+<br>
+<!-- <label>Sort by &nbsp;</label>
+<select [(ngModel)] = 'sortByParam'>
+  <option value="price">Price</option>
+  <option value="description">Description</option>
+</select> -->
+<!-- <button type="button" (click)="onSortDirection()">
+<i *ngIf = "sortDirection==='asc'" class="fas fa-sort-alpha-down"></i>
+<i *ngIf = "sortDirection==='desc'" class="fas fa-sort-alpha-up"></i></button> -->
+<!-- <button type="button" (click)="onSortDirection()">Sort</button> -->
+
+<div class="row">
+    <div *ngFor="let product of productList|filter:description:'description'|sort:[sortByParam,'desc']" class="col-md-4">
+      <app-product-item [productItem]="product" [addedToWishlist]="wishlist.indexOf(product.id) >= 0"></app-product-item>
+</div>
+
+  

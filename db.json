@@ -1,0 +1,263 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Toy 1",
+      "description": "Toy 1 Sample Description. This toy is good for the Kids",
+      "imageUrl": "https://images-cdn.ubuy.co.in/633ab3c63f59b24c1f2782e6-24.jpg",
+      "price": 299
+    },
+    {
+      "id": 2,
+      "name": "Toy 2",
+      "description": "Toy 2 Sample Description. This toy is good for the Kids",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/12/OW/QP/UF/91412941/popit-pop-it-toy-pops-pop-pop-pop-toy-pop-it-toys-for-kids-pop-pop-toy-fidget-pop-it-500x500.jpg",
+      "price": 99
+    },
+    {
+      "id": 3,
+      "name": "Toy 3",
+      "description": "Toy 3 Sample Description. This toy is good for the Kids",
+      "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kplisnk0/learning-toy/q/c/f/angry-bird-study-game-toy-laptop-with-music-and-alphabet-sound-original-imag3sn4ypuwuekh.jpeg?q=70",
+      "price": 199
+    },
+    {
+      "id": 4,
+      "name": "Toy 4",
+      "description": "Toy 4 Sample Description. This toy is good for the Kids",
+      "imageUrl": "https://5.imimg.com/data5/HQ/TD/MY-2735848/bento-500x500.jpg",
+      "price": 299.5
+    },
+    {
+      "id": 5,
+      "name": "Toy 5",
+      "description": "Toy 5 Sample Description. This toy is good for the Kids",
+      "imageUrl": "https://m.media-amazon.com/images/I/81mzApc3+BL._AC_SL1500_.jpg",
+      "price": 250
+    },
+    {
+      "id": 6,
+      "name": "Toy 6",
+      "description": "Toy 6 Sample Description. This toy is good for the Kids",
+      "imageUrl": "https://m.media-amazon.com/images/I/71uwxk2BlCL._SL1100_.jpg",
+      "price": 100
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 2
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Toy 1",
+        "description": "Toy 1 Sample Description. This toy is good for the Kids",
+        "imageUrl": "https://images-cdn.ubuy.co.in/633ab3c63f59b24c1f2782e6-24.jpg",
+        "price": 299
+      },
+      "id": 19
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Toy 3",
+        "description": "Toy 3 Sample Description. This toy is good for the Kids",
+        "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kplisnk0/learning-toy/q/c/f/angry-bird-study-game-toy-laptop-with-music-and-alphabet-sound-original-imag3sn4ypuwuekh.jpeg?q=70",
+        "price": 199
+      },
+      "id": 24
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Toy 2",
+        "description": "Toy 2 Sample Description. This toy is good for the Kids",
+        "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/12/OW/QP/UF/91412941/popit-pop-it-toy-pops-pop-pop-pop-toy-pop-it-toys-for-kids-pop-pop-toy-fidget-pop-it-500x500.jpg",
+        "price": 99
+      },
+      "id": 25
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Toy 2",
+        "description": "Toy 2 Sample Description. This toy is good for the Kids",
+        "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/12/OW/QP/UF/91412941/popit-pop-it-toy-pops-pop-pop-pop-toy-pop-it-toys-for-kids-pop-pop-toy-fidget-pop-it-500x500.jpg",
+        "price": 99
+      },
+      "id": 26
+    },
+    {
+      "product": {
+        "id": 5,
+        "name": "Toy 5",
+        "description": "Toy 5 Sample Description. This toy is good for the Kids",
+        "imageUrl": "https://m.media-amazon.com/images/I/81mzApc3+BL._AC_SL1500_.jpg",
+        "price": 250
+      },
+      "id": 27
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Toy 2",
+        "description": "Toy 2 Sample Description. This toy is good for the Kids",
+        "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/12/OW/QP/UF/91412941/popit-pop-it-toy-pops-pop-pop-pop-toy-pop-it-toys-for-kids-pop-pop-toy-fidget-pop-it-500x500.jpg",
+        "price": 99
+      },
+      "id": 28
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Toy 2",
+        "description": "Toy 2 Sample Description. This toy is good for the Kids",
+        "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/12/OW/QP/UF/91412941/popit-pop-it-toy-pops-pop-pop-pop-toy-pop-it-toys-for-kids-pop-pop-toy-fidget-pop-it-500x500.jpg",
+        "price": 99
+      },
+      "id": 29
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Toy 3",
+        "description": "Toy 3 Sample Description. This toy is good for the Kids",
+        "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kplisnk0/learning-toy/q/c/f/angry-bird-study-game-toy-laptop-with-music-and-alphabet-sound-original-imag3sn4ypuwuekh.jpeg?q=70",
+        "price": 199
+      },
+      "id": 31
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Toy 3",
+        "description": "Toy 3 Sample Description. This toy is good for the Kids",
+        "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kplisnk0/learning-toy/q/c/f/angry-bird-study-game-toy-laptop-with-music-and-alphabet-sound-original-imag3sn4ypuwuekh.jpeg?q=70",
+        "price": 199
+      },
+      "id": 32
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Toy 2",
+        "description": "Toy 2 Sample Description. This toy is good for the Kids",
+        "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/12/OW/QP/UF/91412941/popit-pop-it-toy-pops-pop-pop-pop-toy-pop-it-toys-for-kids-pop-pop-toy-fidget-pop-it-500x500.jpg",
+        "price": 99
+      },
+      "id": 33
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Toy 3",
+        "description": "Toy 3 Sample Description. This toy is good for the Kids",
+        "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kplisnk0/learning-toy/q/c/f/angry-bird-study-game-toy-laptop-with-music-and-alphabet-sound-original-imag3sn4ypuwuekh.jpeg?q=70",
+        "price": 199
+      },
+      "id": 34
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Toy 3",
+        "description": "Toy 3 Sample Description. This toy is good for the Kids",
+        "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kplisnk0/learning-toy/q/c/f/angry-bird-study-game-toy-laptop-with-music-and-alphabet-sound-original-imag3sn4ypuwuekh.jpeg?q=70",
+        "price": 199
+      },
+      "id": 35
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Toy 3",
+        "description": "Toy 3 Sample Description. This toy is good for the Kids",
+        "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kplisnk0/learning-toy/q/c/f/angry-bird-study-game-toy-laptop-with-music-and-alphabet-sound-original-imag3sn4ypuwuekh.jpeg?q=70",
+        "price": 199
+      },
+      "id": 36
+    }
+  ],
+  "signedupUsers": [
+    {
+      "user": {
+        "name": "Abhijit",
+        "email": "abc.test@abc.com",
+        "username": "Test",
+        "password": "Test@1234",
+        "confirmPassword": "Test@1234"
+      },
+      "id": 1
+    },
+    {
+      "user": {
+        "name": "Abhijit",
+        "email": "abc.test@abc.com",
+        "username": "Abhi",
+        "password": "Abhi@1234",
+        "confirmPassword": "Abhi@1234"
+      },
+      "id": 2
+    },
+    {
+      "user": {
+        "name": "Abhijit",
+        "email": "abc.test@abc.com",
+        "username": "abhijit",
+        "password": "Test@1234",
+        "confirmPassword": "Test@1234"
+      },
+      "id": 3
+    },
+    {
+      "user": {
+        "name": "Abhijit",
+        "email": "abhijit@abc.com",
+        "username": "Abhi",
+        "password": "Abhi@1234",
+        "confirmPassword": "Abhi@1234"
+      },
+      "id": 4
+    }
+  ],
+  "payment": [
+    {
+      "cartTotal": 2238,
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
